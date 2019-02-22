@@ -1,4 +1,4 @@
-# Simple Java Web application
+# Simple Java Webapp
 
 Technologies:
 
